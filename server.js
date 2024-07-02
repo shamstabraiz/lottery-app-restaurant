@@ -48,7 +48,7 @@ app.post("/deploy", (req, res) => {
 
 
 
-app.listen(3500, function () {
+app.listen(3000, function () {
     console.log("server running on PORT 3000");
 });
 
